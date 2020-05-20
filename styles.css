@@ -1,0 +1,15 @@
+li span {font-weight: bold;}
+ul {  list-style-type: none;}
+.box1{
+  Border:1px;
+  border-style: ridge;
+  margin:1em;
+  padding:2em;
+  width:300px;
+}
+.box2{
+  Border:1px;
+  border-style: ridge;
+  margin:1em;
+  width:300px;
+}
